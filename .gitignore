@@ -1,0 +1,61 @@
+# Ignore compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore environment configuration files
+.env
+
+# Ignore dependencies
+__pycache__/
+
+# Ignore any generated files or folders
+generated/
+
+# Ignore logs
+logs/
+
+# Ignore database files
+db.sqlite3
+
+# Ignore user-specific settings
+*.DS_Store
+*.idea/
+
+# Ignore configuration files
+config.ini
+
+# Ignore output files or folders
+output/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore image files generated during development
+*.png
+*.jpg
+*.jpeg
+
+# Ignore model files
+models/
+
+# Ignore any IDE or text editor configuration files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore package-lock.json for npm
+package-lock.json
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore any build output
+build/
+dist/
+
+# Ignore cache files
+.cache/
